@@ -1,4 +1,8 @@
+@import '/fonts/vazir/vazir.css';
 
+* {
+  font-family: Vazir !important;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
