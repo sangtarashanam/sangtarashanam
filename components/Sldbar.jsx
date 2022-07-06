@@ -1,7 +1,7 @@
 function Sidbar (){
     return(
         <>
-        <aside className='bg-blue-700  text-white   h-screen fixed '>
+        <aside className=' bg-blue-700  text-white   h-screen  '>
             <div>
                 <div className=" flex  flex-col  items-center p-5">
 
@@ -11,12 +11,14 @@ function Sidbar (){
 
 
         <ul>
-            <li className="  p-3 ">صفحه اصلی</li>
-            <li className="  p-3 ">خدمات</li>
-            <li className="  p-3 ">نمونه کار</li>
-            <li className="  p-3 ">رزومه</li>
-            <li className="  p-3 ">بلاگ</li>
-            <li className="  p-3 ">تماس با ما</li>
+            <li className="  p-3 "><a href="/#main">صفحه اصلی</a></li>
+            <li className="  p-3 "><a href="/#Services">خدمات</a></li>
+            <li className="  p-3 "><a href="/#Work-samples
+                ">نمونه کار</a></li>
+            <li className="  p-3 "><a href="/#Cv">رزومه</a></li>
+            <li className="  p-3 "><a href="/#blog">بلاگ</a></li>
+            <li className="  p-3 "><a href="/#contact-us
+                ">تماس با ما</a></li>
         </ul>
             </div>
         </aside>

@@ -12,12 +12,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main dir='rtl'  className="flex flex-row">
+      <main dir='rtl'  >
+        <div className='flex flex-1 fixed w-52 clear-left top-0 right-0 '>   
+          <Sidbar/>
+</div>
+        <div className='mr-52  '>   
+              <Container/>
+</div>
         
-        <Sidbar/>
         
          
-         <Container/>
 
         
     
