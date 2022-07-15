@@ -1,4 +1,6 @@
 import Button from "./Button";
+import Services from '../components/Services'
+
 function Container (){
     return(
         <>
@@ -10,7 +12,7 @@ function Container (){
 
             <img className=" h-52 w-52 rounded-full m-5" src={"./2.jpg"}/>
             <p className=" text-3xl p-6">محمد مهدی سنگتراشان</p>
-            <p className=" text-1xl">محمد مهدی سنگتراشان هستم طراح سایت و علاقه مند به فرانتند 
+            <p className=" text-1xl p-7">محمد مهدی سنگتراشان هستم طراح سایت و علاقه مند به فرانتند 
                 اگر مایل به داشتن سایتی به روز و باکیفیت هستید در خدمت هستم
             </p>
             <div  className=" p-8">
@@ -18,19 +20,19 @@ function Container (){
             <Button className="mr-2 w-32" color="blue">
                 تماس با من
               </Button>
-              <Button className="mr-2 w-32" color="blue">
+              <Button  className="mr-2 w-32" color="blue">
                 پیج کاری من
               </Button>
+              
             </div>
 
                 
                </div>
                    </div>
-            <div id="Services" className=" flex items-center justify-center h-screen w-full  ">
+            <div id="Services" className="  p-2 h-screen w-full  ">
                 
 
-                <samp>خدمات
-                    </samp>
+               <Services/>
                     </div>
             <div id="Work-samples" className=" flex items-center justify-center h-screen w-full ">
                 

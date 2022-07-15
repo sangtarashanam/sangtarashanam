@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Sidbar from '../components/Sldbar'
 import Container from '../components/Container'
-
 export default function Home() {
   return (
     <div >
@@ -13,10 +12,10 @@ export default function Home() {
       </Head>
 
       <main dir='rtl'  >
-        <div className='flex flex-1 fixed w-52 clear-left top-0 right-0 '>   
+        <div className='flex flex-1 fixed   lg:w-52 clear-left top-0 right-0 '>   
           <Sidbar/>
 </div>
-        <div className='mr-52  '>   
+        <div className=' mr-10 lg:mr-52  '>   
               <Container/>
 </div>
         
