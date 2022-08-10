@@ -1,14 +1,9 @@
 const Cv = () => {
   return (
     <>
-    <div className=" m-2 mt-20 ">
+    <div className="  m-2 ">
 
-      <div>
-        <span>------------------ نگاهی بیندازید به</span>
-        <h2 className=" p-8 text-2xl font-bold">
-          رزومه کاری من در ده سال اخیر{" "}
-        </h2>
-      </div>
+      
       <div class="md:w-2/3 lg:mr-10 ">
         <div class="relative mt-5 text-right">
           <div class="flex items-center relative">
