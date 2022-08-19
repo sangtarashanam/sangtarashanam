@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image":
-      "./11.png",
+      "/11.png",
     "title": "فیلیمو",
     "url":"https://filimo.iran.liara.run/",
     "caption":
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "image":
-      "./12.png",
+      "/12.png",
     "title": "my-movies-app",
     "url":"https://filimo.iran.liara.run/",
     "caption":
@@ -21,7 +21,7 @@
   },{
     "id": 3,
     "image":
-    "./zibaee.png",
+    "/zibaee.png",
   "title": "beauty shop",
   "url":"https://dev-wp.ir/w-pluss4/",
   "caption":
@@ -31,7 +31,7 @@
   {
     "id": 4,
     "image":
-    "./organic.png",
+    "/organic.png",
   "title": "organic",
   "url":"https://dev-wp.ir/w-organic/",
   "caption":
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "image":
-      "./digkala.png",
+      "/digkala.png",
     "title": "digkala",
     "url":"https://dev-wp.ir/dgkala/",
     "caption":
@@ -51,7 +51,7 @@
   {
     "id": 5,
     "image":
-      "./janebi.png",
+      "/janebi.png",
     "title": "janebi",
     "url":"https://dev-wp.ir/w-elect/",
 
@@ -63,7 +63,7 @@
   {
     "id": 7,
     "image":
-    "./moarefi.png",
+    "/moarefi.png",
   "title": "corporate",
   "url":"https://dev-wp.ir/w-corporate/",
   "caption":
@@ -73,7 +73,7 @@
   {
     "id": 8,
     "image":
-    "./pezeshkee.png",
+    "/pezeshkee.png",
   "title": "my-movies-app",
   "url":"https://dev-wp.ir/w-medicalel/",
 

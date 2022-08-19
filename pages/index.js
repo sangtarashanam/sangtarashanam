@@ -1,8 +1,7 @@
 import Head from "next/head";
 import Sidbar from "../components/Sldbar";
 import Container from "../components/Container";
-
-
+import React from "react";
 export default function Home() {
   return (
     <div>
